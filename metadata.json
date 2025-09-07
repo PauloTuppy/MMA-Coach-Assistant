@@ -1,0 +1,5 @@
+{
+  "name": "MMA Coach Assistant with Gemini",
+  "description": "A web-based MMA Coach Assistant that uses Gemini's multimodal capabilities to analyze fight videos of your fighter and their opponent, providing tactical insights and personalized training plans.",
+  "requestFramePermissions": []
+}
